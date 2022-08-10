@@ -12,7 +12,7 @@ body {
 .sidebar {
     /* float: left;
     clear: right; */
-    width: auto%;
+    width: auto;
     background-color: #f1f1f1;
     position: fixed;
     height: 90%;
